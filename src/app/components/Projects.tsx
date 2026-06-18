@@ -140,7 +140,7 @@ const projectsData: Project[] = [
     features: ['Appointment Booking', 'WhatsApp Notifications', 'SMS Alerts', 'QR Ticket Generation', 'Payment Verification', 'Staff Dashboard'],
     links: {
       demo: 'https://dentalhouselunawada.vercel.app/',
-      github: 'https://github.com/neel040205-np/dental-clinic'
+      github: 'https://github.com/neel040205-np/dentalclinic'
     },
     caseStudy: {
       problem: 'Clinic operations suffer from patient check-in bottlenecks, missed appointment notifications, and queue scheduling conflicts.',
